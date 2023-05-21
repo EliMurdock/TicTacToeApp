@@ -1,15 +1,15 @@
 # Tic Tac Toe Overview (C++)
 
-This is my first C++ project, created to test my ability to learn and code in a new language. 
+This is a C++ project, created to test my ability to learn and code in a difficult language. 
 There are several pieces of software in this repository, and all of them are Tic Tac Toe. The 
-first project was "BasicTic.cpp" a rudimentary form of Tic Tac Toe played in the console. It was 
+first project was "First_Tic.cpp" a rudimentary form of Tic Tac Toe played in the console. It was 
 built loosely following Youtube tutorial, with several modifications of my own. Then after
-hurs of research on GUIs, I created my own GUI with te simplest framework I could find to make 
+hours of research on GUIs, I created my own GUI with te simplest framework I could find to make 
 a small Tic Tac Toe App. I wrote the tougher program to test my limits in C++.
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
-[Tic Tac Toe Demo](https://youtu.be/kxh7byuBse8)
+[Tic Tac Toe Demo]()
 
 
 # Development Environment
